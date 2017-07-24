@@ -3,7 +3,7 @@ title: "SURGERi iOS App"
 layout: post
 date: 2017-07-04
 tag: [surgeri, mobile app development, iOS Development, swift, core data, encryption]
-image: /assets/images/surgeri-icon.png
+image: https://ameytavkar.github.io/ameytavkar/assets/images/surgeri-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,7 +13,7 @@ author: ameytavkar
 externalLink: false
 ---
 
-![Screenshot](/assets/images/surgeri-screenshots.jpg)
+![Screenshot](https://ameytavkar.github.io/ameytavkar/assets/images/surgeri-screenshots.jpg)
 
 <hr />
 #### Apple Appstore Link - [SURGERi App](https://itunes.apple.com/in/app/surgeri/id1141836471?mt=8)
