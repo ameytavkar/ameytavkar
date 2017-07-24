@@ -4,43 +4,39 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hey, I am Amey Tavkar. I am a freelance Mobile (iOS/Android) and Backend (Ruby on Rails) developer with 8+ years of comprehensive experience in developing small scale to large scale products and services. I am based out of India (GMT/UTC + 5:30).
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I help startups build their MVP (Minimum Viable Product) and handle the technical side of things so that they can focus in on validating their awesome idea, start generating revenue and traction necessary for getting that huge funding from investors.
 
-<h2>Skills</h2>
+Over the years, I have deployed over 20+ apps on the Apple Appstore/Google PlayStore during my freelance tenures as well as previous full-time job tenures. I was fortunate enough to work on numerous different and unique ideas, which required expertise in various frameworks and technology stacks.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+I am never interested in working for clients who just need a developer for short amount of time to do some last minute changes or clean up someone else's code. I am always interested in working with clients like you who want to build a long term relationship which is beneficial for you as well as me.
 
-<h2>Projects</h2>
+## My Strongest Skills
+- Strong knowledge of iOS/Android and API architecture.
+- Adaptive GUI design that supports all phone and tablet devices.
+- Delivering projects on/before time.
+- Good quality of code.
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+## My Technical Skills
+
+- Swift, Objective-C, Kotlin 
+- Ruby On Rails, Heroku, AWS 
+- CoreData / SQLite / Realm 
+- Interaction with backend 
+- Restful / JSON / XML  
+- Unit testing  
+- Social Integration 
+- Facebook, Twitter, Google+, etc.  
+- Version Control Tools - Git / SVN / BitBucket  
+- Online Payment Gateway: BillDesk, PayPal, Stripe, Braintree 
+- In-App Purchase / Advertisement / Push Notifications / GCM / Google Analytics
+- Trello, Jira, Basecamp, Pivotal, Asana
+- Publishing apps in the Apple App store, uploading builds, sending for review, managing review issues, etc. 
+
+I can start work immediately and will make a commitment to your project full time. I understand that communication is one of the key factors in success of remote work. I am mostly available via Skype, Email, WhatsApp, iMessage or any other that you prefer.  
+
+When you're ready to get started or just want to say hi, you can contact me at [amey.tavkar@gmail.com](mailto:amey.tavkar@gmail.com)
+
+Look forward to having productive discussions with you.
+
