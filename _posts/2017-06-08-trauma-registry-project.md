@@ -3,7 +3,7 @@ title: "Trauma Registry iOS App"
 layout: post
 date: 2017-06-08
 tag: [mobile app development, iOS Development, swift, realm, synchronization, offline database, tesseract ocr]
-image: /assets/images/trauma-icon.png
+image: http://ameytavkar.github.io/ameytavkar/assets/images/trauma-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,7 +13,7 @@ author: ameytavkar
 externalLink: false
 ---
 
-![Screenshot](/assets/images/trauma-screenshots.jpg)
+![Screenshot](http://ameytavkar.github.io/ameytavkar/assets/images/trauma-screenshots.jpg)
 
 <hr />
 #### Apple Appstore Link - [Trauma Registry App](https://itunes.apple.com/in/app/trauma-registry/id1150440354?mt=8)
