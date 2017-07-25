@@ -2,7 +2,7 @@
 title: "SURGERi iOS App"
 layout: post
 date: 2017-07-04
-tag: [surgeri, mobile app development, iOS Development, swift, core data, encryption]
+tag: [startup, mvp, mobile app development, iOS Development, swift, core data, encryption, synchronization, offline database]
 image: https://ameytavkar.github.io/ameytavkar/assets/images/surgeri-icon.png
 headerImage: true
 projects: true
