@@ -8,7 +8,7 @@ description: A blog about startups, mobile development, user experience designin
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/ameytavkar.jpg
+picture: assets/images/ameytavkar.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -54,9 +54,9 @@ email: amey.tavkar@gmail.com
 authors:
     ameytavkar:
         name: Amey Tavkar
-        bio: Mobile Developer, Startup evangalist, Designer.
+        bio: Mobile Developer, Startup evangalist, UX Designer.
         external-image: false
-        picture: assets/images/ameytavkar.jpg
+        picture: assets/images/ameytavkar.jpeg
         twitter: ameytavkar
     
 
