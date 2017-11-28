@@ -3,7 +3,7 @@ title: "People Plot"
 layout: post
 date: 2017-10-10
 tag: [startup, mvp, iOS Development, swift, realm, contacts framework]
-image: /assets/images/people-plot-ios-icon.png
+image: https://ameytavkar.github.io/ameytavkar/assets/images/people-plot-ios-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -13,7 +13,7 @@ author: ameytavkar
 externalLink: false
 ---
 
-![Cover](http://localhost:4000/assets/images/people-plot-cover.jpg)
+![Cover](https://ameytavkar.github.io/ameytavkar/assets/images/people-plot-cover.jpg)
 
 The client had developed an algorithm and wanted to develop an iOS app around it. The app is primarily a contact manager but with a twist. Instead of scheduling meetings, the app can inteligently come up with suggestions for scheduling meetings.
 

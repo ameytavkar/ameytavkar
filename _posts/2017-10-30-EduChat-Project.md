@@ -3,7 +3,7 @@ title: "EduChat"
 layout: post
 date: 2017-10-30
 tag: [startup, iOS Development, swift, Socket.IO, custom UI controls]
-image: /assets/images/educhat-ios-icon.png
+image: https://ameytavkar.github.io/ameytavkar/assets/images/educhat-ios-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

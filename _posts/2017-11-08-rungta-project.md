@@ -3,7 +3,7 @@ title: "Rungta Academy Registration"
 layout: post
 date: 2017-11-08
 tag: [startup, iPad, iOS Development, swift, realm, synchronization, offline database, AWS, AWSSES]
-image: /assets/images/rungta-ios-icon.png
+image: https://ameytavkar.github.io/ameytavkar/assets/images/rungta-ios-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

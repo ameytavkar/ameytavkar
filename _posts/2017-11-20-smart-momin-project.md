@@ -3,7 +3,7 @@ title: "Smart Momin"
 layout: post
 date: 2017-11-20
 tag: [startup, mvp, iOS Development, swift, realm, synchronization, offline database]
-image: /assets/images/smart-momin-ios.png
+image: https://ameytavkar.github.io/ameytavkar/assets/assets/images/smart-momin-ios.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
