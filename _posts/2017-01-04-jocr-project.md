@@ -3,7 +3,7 @@ title: "JOCR iOS & Android App"
 layout: post
 date: 2017-01-04
 tag: [mobile app development, hybrid app development, iOS development, android development, ionic, cordova, json]
-image: https://ameytavkar.github.io/ameytavkar/assets/images/jocr-icon.png
+image: /assets/images/jocr-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

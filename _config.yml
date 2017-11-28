@@ -1,6 +1,6 @@
 # main text of home
 name: Amey Tavkar
-bio: I help startups build their MVP (Minimum Viable Product) and handle the technical side of things so that they can focus in on validating their awesome idea, start generating revenue and traction necessary for getting that huge funding from investors. 
+bio: Hey, I am Amey Tavkar. I am a freelance Mobile (iOS/Android) and Backend (Ruby on Rails) developer with 8+ years of comprehensive experience in developing small scale to large scale products and services. I am based out of India (GMT/UTC + 5:30). I help startups build their MVP (Minimum Viable Product) and handle the technical side of things so that they can focus in on validating their awesome idea, start generating revenue and traction necessary for getting that huge funding from investors.
 
 # twitter summary info
 description: A blog about startups, mobile development, user experience designing and stuff related.
@@ -17,6 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://ameytavkar.github.io/ameytavkar
+
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -54,7 +55,7 @@ email: amey.tavkar@gmail.com
 authors:
     ameytavkar:
         name: Amey Tavkar
-        bio: Mobile Developer, Startup evangalist, UX Designer.
+        bio: iOS Evangelist and Developer, Startup enthusiast , UX Designer.
         external-image: false
         picture: assets/images/ameytavkar.jpeg
         twitter: ameytavkar

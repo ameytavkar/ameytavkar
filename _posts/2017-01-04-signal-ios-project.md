@@ -3,7 +3,7 @@ title: "Private Signal for iOS"
 layout: post
 date: 2017-07-12
 tag: [mobile app development, iOS development, touchID, sockets, real-time chat, push notification]
-image: https://ameytavkar.github.io/ameytavkar/assets/images/signal-ios-icon.png
+image: /assets/images/signal-ios-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
