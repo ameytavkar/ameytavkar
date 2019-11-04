@@ -1,6 +1,6 @@
 # main text of home
 name: Amey Tavkar
-bio: Hey, I am Amey Tavkar. I am a freelance Mobile (iOS/Android) and Backend (Ruby on Rails) developer with 8+ years of comprehensive experience in developing small scale to large scale products and services. I am based out of India (GMT/UTC + 5:30). I help startups build their MVP (Minimum Viable Product) and handle the technical side of things so that they can focus in on validating their awesome idea, start generating revenue and traction necessary for getting that huge funding from investors.
+bio: Mobile Application Architect with 10+ years of hands-on expertise in developing apps from scratch, improvising and maintaining existing apps. In many of the previous organisations, I have formed and led mobile teams. Always versatile enough to acquire new skills whenever necessary.
 
 # twitter summary info
 description: A blog about startups, mobile development, user experience designing and stuff related.
@@ -16,14 +16,14 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://ameytavkar.github.io/ameytavkar
+url: https://ameytavkar.github.io
 
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-103141942-1'
+analytics-google: "UA-103141942-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -32,7 +32,7 @@ analytics-google: 'UA-103141942-1'
 # if you don't want comments in your posts, leave categories empty
 # disqus:
 #   shortname: mydisqus # enter this from your disqus account
-  # categories: [blog, project] # only show disqus for posts that have these categories
+# categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: ameytavkar
@@ -59,7 +59,6 @@ authors:
         external-image: false
         picture: assets/images/ameytavkar.jpeg
         twitter: ameytavkar
-    
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -96,10 +95,10 @@ show-author: true
 animation: true
 
 gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+    - jekyll-seo-tag
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
 
 jekyll-mentions:
     base_url: https://github.com
